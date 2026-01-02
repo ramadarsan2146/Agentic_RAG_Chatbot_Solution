@@ -1,0 +1,14 @@
+1. Compare fully managed RAG options with custom RAG architectures
+Expected: Pros, cons, operational trade-offs
+
+2. List the retriever options described in the guide
+Expected: Kendra, OpenSearch, Aurora, Neptune, etc.
+
+3. What is the role of a generator in RAG?
+Expected: LLMs synthesize retrieved content
+
+4. How does the guide compare RAG vs fine-tuning?
+Expected: Flexibility, cost, latency trade-offs
+
+5. What are best practices for chunking documents in RAG?
+Expected: Semantic boundaries, overlap, metadata
